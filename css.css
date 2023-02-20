@@ -12,6 +12,7 @@ img {
 }
 
 #box {
+    align-self: center;
     align-items: center;
 }
 
