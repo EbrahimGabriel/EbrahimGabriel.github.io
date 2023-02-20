@@ -1,1 +1,7 @@
-body {background-color: lightblue;}
+body {
+    background-color: lightblue;
+}
+
+p {
+    color: red;
+}
