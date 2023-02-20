@@ -11,12 +11,21 @@ img {
     height: 200px;
 }
 
-#box {
-    align-self: center;
-    align-items: center;
+div {
+    margin: auto;
+}
+
+#me {
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+    text-align: center;
 }
 
 .child {
+    border-style: solid;
+    border-color: black;
     background-color: greenyellow;
-    margin: 0 auto;
+    width: 50%;
+    text-align: center;
 }
